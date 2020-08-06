@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi all 👋
 
-<!--
-**HappyTobi/HappyTobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi. I’m Tobi. I build random Open Source stuff on this account. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work at [Microsoft](https://microsoft.com) as a Software Developer. For more information about me, ping me.
+
+
+Here are some more informations what I'm working on!
+
+- 🔭 I’m currently working on random Open Source stuff
+- 🌱 I’m currently learning linux kernel internals (io_uring)
+- 📫 How to reach me: [twitter](https://twitter.com/Happy_Tobi)
