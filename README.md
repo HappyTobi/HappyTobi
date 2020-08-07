@@ -11,11 +11,13 @@ Hi. I’m Tobi. I build random Open Source stuff.
 <p align="center">
   Here are some more informations what I'm working on!
 </p>
+<br/><br/>
 
 - 🔭 I’m currently working on random Open Source stuff.
 - 🌱 I’m currently learning linux kernel internals (io_uring).
 - 📫 How to reach me: [twitter](https://twitter.com/Happy_Tobi).
 
+<br/><br/>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=happytobi&show_icons=true&theme=dracula" alt="Tobias Schug" />
 </p>
