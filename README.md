@@ -1,13 +1,21 @@
-### Hi all 👋
+<h1 align="center">Hi all 👋</h1>
 
+<p align="center">
+Hi. I’m Tobi. I build random Open Source stuff. 
+</p>
 
-Hi. I’m Tobi. I build random Open Source stuff on this account. 
+<p align="center">
+  I work at <a href="https://microsoft.com">Microsoft</a> as a Software Developer. For more information about me, ping <a href="https://twitter.com/Happy_Tobi">me</a>.
+</p>
 
-I work at [Microsoft](https://microsoft.com) as a Software Developer. For more information about me, ping me.
+<p align="center">
+  Here are some more informations what I'm working on!
+</p>
 
+- 🔭 I’m currently working on random Open Source stuff.
+- 🌱 I’m currently learning linux kernel internals (io_uring).
+- 📫 How to reach me: [twitter](https://twitter.com/Happy_Tobi).
 
-Here are some more informations what I'm working on!
-
-- 🔭 I’m currently working on random Open Source stuff
-- 🌱 I’m currently learning linux kernel internals (io_uring)
-- 📫 How to reach me: [twitter](https://twitter.com/Happy_Tobi)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=happytobi&show_icons=true&theme=dracula" alt="Tobias Schug" />
+</p>
