@@ -9,12 +9,12 @@ Hi. I’m Tobi. I build random Open Source stuff.
 </p>
 
 <p align="center">
-  Here are some more informations what I'm working on!
+  Here you can find some more information on what I'm working on!
 </p>
 <br/><br/>
 
 - 🔭 I’m currently working on random Open Source stuff.
-- 🌱 I’m currently learning linux kernel internals (io_uring).
+- 🌱 I’m currently learning Linux Kernel internals (io_uring, namespaces).
 - 📫 How to reach me: [twitter](https://twitter.com/Happy_Tobi).
 
 <br/><br/>
